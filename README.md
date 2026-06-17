@@ -4,10 +4,18 @@ A collection of embedded systems projects written entirely in bare-metal Assembl
 
 ## Hardware & Factory Guides
 This repository interfaces with the following hardware. Official documentation and datasheets are linked below for reference:
-* **[MSP-EXP430FR6989 LaunchPad](https://www.ti.com/tool/MSP-EXP430FR6989)**: Development board featuring the MSP430FR6989 with 128KB FRAM and an onboard 14-segment LCD.
-* **[BOOSTXL-EDUMKII BoosterPack](https://www.ti.com/tool/BOOSTXL-EDUMKII)**: Educational BoosterPack featuring a TFT LCD, analog joystick, RGB LED, and push buttons.
-* **[MFRC522 RFID Reader (NXP)](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf)**: 13.56MHz contactless reader used for SPI communication projects.
 
+* **[MSP-EXP430FR6989 LaunchPad](https://www.ti.com/tool/MSP-EXP430FR6989)** <br>
+  <img src="https://www.ti.com/content/dam/ticom/images/products/ic/microcontrollers/msp/evm-board/msp-exp430fr6989-top.png" width="250">  <br>
+  *Development board featuring the MSP430FR6989 microcontroller with 128KB FRAM and an onboard segment LCD.*
+
+* **[BOOSTXL-EDUMKII BoosterPack](https://www.ti.com/tool/BOOSTXL-EDUMKII)** <br>
+  <img src="https://www.ti.com/content/dam/ticom/images/products/ic/microcontrollers/msp/evm-board/boostxl-edumkii-bottom.png" width="250">  <br>
+  *Educational BoosterPack featuring a TFT LCD, analog joystick, RGB LED, and push buttons.*
+
+* **[MFRC522 RFID Reader (NXP)](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf)** <br>
+  <img src="https://joy-it.net/files/files/Produkte/SBC-RFID-RC522/SBC-RFID-RC522%20(2).png" width="250">  <br>
+  *13.56MHz contactless reader used for SPI communication projects.*
 ## Projects Overview (Basic to Advanced)
 
 **1. [Basic Blink Sequence](./basic-blink-sequence/)**
